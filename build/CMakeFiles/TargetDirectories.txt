@@ -1,0 +1,14 @@
+/home/dox/Algorithm/CameraCompress/build/CMakeFiles/install/strip.dir
+/home/dox/Algorithm/CameraCompress/build/CMakeFiles/install/local.dir
+/home/dox/Algorithm/CameraCompress/build/CMakeFiles/cameracompress.dir
+/home/dox/Algorithm/CameraCompress/build/CMakeFiles/rebuild_cache.dir
+/home/dox/Algorithm/CameraCompress/build/CMakeFiles/edit_cache.dir
+/home/dox/Algorithm/CameraCompress/build/CMakeFiles/install.dir
+/home/dox/Algorithm/CameraCompress/build/CMakeFiles/list_install_components.dir
+/home/dox/Algorithm/CameraCompress/build/src/CMakeFiles/install/strip.dir
+/home/dox/Algorithm/CameraCompress/build/src/CMakeFiles/install/local.dir
+/home/dox/Algorithm/CameraCompress/build/src/CMakeFiles/edit_cache.dir
+/home/dox/Algorithm/CameraCompress/build/src/CMakeFiles/rebuild_cache.dir
+/home/dox/Algorithm/CameraCompress/build/src/CMakeFiles/install.dir
+/home/dox/Algorithm/CameraCompress/build/src/CMakeFiles/FrameCompress.dir
+/home/dox/Algorithm/CameraCompress/build/src/CMakeFiles/list_install_components.dir

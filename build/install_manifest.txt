@@ -1,0 +1,2 @@
+/home/dox/Algorithm/CameraCompress/build/./install/cameracompress
+/home/dox/Algorithm/CameraCompress/build/./install/lib/libFrameCompress.so
